@@ -1,0 +1,17 @@
+{
+  "wheel_id": 57,
+  "slug": "akr-vc-150",
+  "project": "kitchen-renovations-adelaide",
+  "parent_t1_ref": "akr-vc-001",
+  "node_role": "buffer",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide",
+  "intended_url": "https://kitchen-renovations-adelaide.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://adelaide-kitchen-reno-guide.vercel.app",
+      "anchor": "kitchen renovations adelaide",
+      "rel": "follow"
+    }
+  ]
+}
